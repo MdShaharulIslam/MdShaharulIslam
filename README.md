@@ -2,7 +2,7 @@
 
 <!--![Md Shaharul Islam Banner- 1](https://github.com/MdShaharulIslam/MdShaharulIslam/blob/main/banner-1.png) -->
 <div style="position: relative; width: 100%; text-align: center; color: white;">
-  <img src="https://github.com/MdShaharulIslam/MdShaharulIslam/blob/main/banner1.gif" alt="Md Shaharul Islam Banner" style="width: 100%;">
+  <img src="https://github.com/MdShaharulIslam/MdShaharulIslam/blob/main/banner-1.png" alt="Md Shaharul Islam Banner" style="width: 100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" style="position: absolute; top: 20px; left: 20px; width: 50px;">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS Logo" style="position: absolute; top: 20px; right: 20px; width: 50px;">
 </div>
