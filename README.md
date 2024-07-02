@@ -9,11 +9,11 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Shaharul Islam</h1>
-<h3 align="center">A passionate Programmer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
 <p align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Shaharul Islam" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Shaharul Islam languages" /> -->
+<!--  <img src="https://img.shields.io/badge/Languages-HTML|CSS|Tailwind|Botstrap|Mongodb|Firebase|React| Node | React -green.svg" alt="Shaharul Islam languages" /> -->
 
 </p>
 
