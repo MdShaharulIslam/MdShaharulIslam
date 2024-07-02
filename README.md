@@ -3,8 +3,7 @@
 <!--![Md Shaharul Islam Banner- 1](https://github.com/MdShaharulIslam/MdShaharulIslam/blob/main/banner-1.png) -->
 <div style="position: relative; width: 100%; text-align: center; color: white;">
   <img src="https://github.com/MdShaharulIslam/MdShaharulIslam/blob/main/banner-1.png" alt="Md Shaharul Islam Banner" style="width: 100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" style="position: absolute; top: 20px; left: 20px; width: 50px;">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS Logo" style="position: absolute; top: 20px; right: 20px; width: 50px;">
+ 
 </div>
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
