@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Assalamu+Alaikum+%F0%9F%A5%B0;Welcome+To+Md%3AShaharul+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Assalamu+Alaikum+%F0%9F%A5%B0;Welcome+To+%3AShaharul+Islam+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
 
 <!--![Md Shaharul Islam Banner- 1](https://github.com/MdShaharulIslam/MdShaharulIslam/blob/main/banner1.gif) -->
 <div style="position: relative; width: 100%; text-align: center; color: white;">
