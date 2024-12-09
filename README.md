@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Assalamu+Alaikum+%F0%9F%A5%B0;Welcome+To+Shaharul+Islam+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=আস্সালামুআলাইকুম+%F0%9F%A5%B0;Welcome+To+Shaharul+Islam+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
 
 <!--![Md Shaharul Islam Banner- 1](https://github.com/MdShaharulIslam/MdShaharulIslam/blob/main/banner-1.png) -->
 <div style="position: relative; width: 100%; text-align: center; color: white;">
@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi 👋, I'm Shaharul Islam</h1>
 <h3 align="center">A passionate Frontend Web Developer from Bangladesh</h3>
-<p align="center">I’m a front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects.</p>
+<p align="center">I’m a Junior front-end Web Developer with over 1+ years of experience. I am experienced with all stages of the development cycle for dynamic web projects.</p>
 <p align="center"> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MdShaharulIslam&label=Profile%20views&color=0e75b6&style=flat" alt="Shaharulislam" /> </p>
 <!--  <img src="https://img.shields.io/badge/Languages-HTML|CSS|Tailwind|Botstrap|Mongodb|Firebase|React| Node | React -green.svg" alt="Shaharul Islam languages" /> -->
