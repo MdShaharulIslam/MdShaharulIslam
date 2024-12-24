@@ -39,17 +39,18 @@ Hi, I’m **Md Shaharul Islam**, a passionate **Junior Front-End Web Developer**
 
 Here are some of the repositories I’m most proud of. Check them out:
 
-1. **[Bistro Boss](https://github.com/MdShaharulIslam/Bistro-Boss)**  
+1. **[LinkUp](https://linkup-client-86adb.web.app)**  
+   - An online meeting scheduling platform with calendar integration, notifications, and responsive design.  
+   - **Tech Stack:** React.js, Express.js, MongoDB, Firebase
+2. **[Medicamp](medicampclient.web.app)**  
    - A feature-rich restaurant app with user roles, Stripe integration, and responsive UI.  
    - **Tech Stack:** React.js, Express.js, MongoDB, Stripe.  
 
-2. **[Dwellingdeel](https://github.com/MdShaharulIslam/Dwellingdeel)**  
+3. **[JobTrack](https://jobjunction-e3f0d.firebaseapp.com/)**  
    - A MERN stack platform for article search, subscription payments, and admin management.  
    - **Tech Stack:** React.js, Tailwind CSS, Firebase, Stripe, MongoDB.  
 
-3. **[LinkUp](https://github.com/MdShaharulIslam/LinkUp)**  
-   - An online meeting scheduling platform with calendar integration, notifications, and responsive design.  
-   - **Tech Stack:** React.js, Express.js, MongoDB, Firebase, Socket.io.  
+.  
 
 ---
 
