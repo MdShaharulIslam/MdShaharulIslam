@@ -29,8 +29,8 @@ Hi, I’m **Md Shaharul Islam**, a passionate **Junior Front-End Web Developer**
 ### 📊 GitHub Stats
 
 <div align="center">  
-    <img src="https://github-readme-stats.vercel.app/api?username=MdShaharulIslam&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />  
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MdShaharulIslam&theme=radical" alt="GitHub Streak" width="48%" />  
+    <img src="https://github-readme-stats.vercel.app/api?username=MdShaharulIslam&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="48%" />  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdShaharulIslam&theme=radical&cache_seconds=86400" alt="GitHub Streak" width="48%" />  
 </div>
 
 ---
@@ -43,14 +43,12 @@ Here are some of the repositories I’m most proud of. Check them out:
    - An online meeting scheduling platform with calendar integration, notifications, and responsive design.  
    - **Tech Stack:** React.js, Express.js, MongoDB, Firebase
 2. **[Medicamp](medicampclient.web.app)**  
-   - A feature-rich restaurant app with user roles, Stripe integration, and responsive UI.  
+   - A feature-rich medicalCamp app with user roles, Stripe integration, and responsive UI.  
    - **Tech Stack:** React.js, Express.js, MongoDB, Stripe.  
 
 3. **[JobTrack](https://jobjunction-e3f0d.firebaseapp.com/)**  
-   - A MERN stack platform for article search, subscription payments, and admin management.  
+   - A MERN stack platform for JOb search, subscription payments, and admin management.  
    - **Tech Stack:** React.js, Tailwind CSS, Firebase, Stripe, MongoDB.  
-
-.  
 
 ---
 
