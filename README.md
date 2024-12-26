@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Assalamu+Alaikum+%F0%9F%A5%B0;Welcome+to+Shaharul+Islam's+GitHub+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Thank+You+for+Visiting!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/MdShaharulIslam/MdShaharulIslam/blob/main/banner-1.png" alt="Professional Banner" style="width:100%; border-radius: 8px;">
+  <img src="https://github.com/MdShaharulIslam/MdShaharulIslam/blob/main/github%20cover.png" alt="Professional Banner" style="width:100%; border-radius: 8px;">
 </div>
 
 ---
