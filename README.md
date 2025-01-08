@@ -53,9 +53,18 @@ Here are some of the repositories I’m most proud of. Check them out:
 
 ### 📧 Connect With Me
 
-<p align="center" bg="dark">  
-    <a href="https://x.com/shaharul_m74117" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" /></a>  
-    <a href="https://www.linkedin.com/in/shaharul-islam-591a691b7" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>  
-    <a href="https://www.facebook.com/shaharul.islam.79274" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" /></a>  
-    <a href="https://www.instagram.com/shaharulislam25" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" /></a>  
+<p align="center" style="background-color: #1a1a1a; padding: 10px; border-radius: 8px;">  
+    <a href="https://x.com/shaharul_m74117" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" />
+    </a>  
+    <a href="https://www.linkedin.com/in/shaharul-islam-591a691b7" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
+    </a>  
+    <a href="https://www.facebook.com/shaharul.islam.79274" target="_blank">
+        <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" />
+    </a>  
+    <a href="https://www.instagram.com/shaharulislam25" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
+    </a>  
 </p>
+
