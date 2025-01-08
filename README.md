@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Assalamu+Alaikum+%F0%9F%A5%B0;Welcome+to+Shaharul+Islam's+GitHub+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Thank+You+for+Visiting!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Assalamu+Alaikum+%F0%9F%A5%B0;Welcome+to+Shaharul+Islam's+GitHub+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Thank+You+for+Visiting!)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github.com/MdShaharulIslam/MdShaharulIslam/blob/main/github%20cover.png" alt="Professional Banner" style="width:100%; border-radius: 8px;">
@@ -30,7 +30,7 @@ Hi, I’m **Md Shaharul Islam**, a passionate **Junior Front-End Web Developer**
 
 <div align="center">  
     <img src="https://github-readme-stats.vercel.app/api?username=MdShaharulIslam&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="48%" />  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdShaharulIslam&theme=radical&cache_seconds=86400" alt="GitHub Streak" width="48%" />  
+    <img src="https://streak-stats.demolab.com?user=MdShaharulIslam&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak" width="48%" />  
 </div>
 
 ---
@@ -42,12 +42,11 @@ Here are some of the repositories I’m most proud of. Check them out:
 1. **[LinkUp](https://linkup-client-86adb.web.app)**  
    - An online meeting scheduling platform with calendar integration, notifications, and responsive design.  
    - **Tech Stack:** React.js, Express.js, MongoDB, Firebase
-2. **[Medicamp](medicampclient.web.app)**  
-   - A feature-rich medicalCamp app with user roles, Stripe integration, and responsive UI.  
+2. **[Medicamp](https://medicampclient.web.app)**  
+   - A feature-rich medical camp app with user roles, Stripe integration, and responsive UI.  
    - **Tech Stack:** React.js, Express.js, MongoDB, Stripe.  
-
 3. **[JobTrack](https://jobjunction-e3f0d.firebaseapp.com/)**  
-   - A MERN stack platform for JOb search, subscription payments, and admin management.  
+   - A MERN stack platform for job search, subscription payments, and admin management.  
    - **Tech Stack:** React.js, Tailwind CSS, Firebase, Stripe, MongoDB.  
 
 ---
