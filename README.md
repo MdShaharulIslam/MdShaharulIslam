@@ -30,7 +30,7 @@ Hi, I’m **Md Shaharul Islam**, a passionate **Junior Front-End Web Developer**
 
 <div align="center">  
     <img src="https://github-readme-stats.vercel.app/api?username=MdShaharulIslam&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="48%" />  
-    <img src="https://streak-stats.demolab.com?username=MdShaharulIslam&theme=radical&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak" width="48%" />  
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=MdShaharulIslam&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 </div>
 
 ---
